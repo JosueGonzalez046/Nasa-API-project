@@ -1,0 +1,41 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+  height: 20%;
+  margin-top: 2em;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+body {
+  text-align: center;
+  background-image: url('../img/bryan-goff-IdYsDAsLaj8-unsplash.jpg');
+  color: #def1ed;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 2rem;
+  
+}
+button {
+  background-color:  #404a4d;
+  color: #def1ed;
+}
+div{
+  margin-top: 6.5em;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
